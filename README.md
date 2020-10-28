@@ -7,7 +7,7 @@
 <p align="center">
 The Service scans, analyzes, and reports on unexpected changes to important files in your desired directory.<br> 
 It monitors changes such as <strong>CREATION</strong>, <strong>MODIFICATION</strong> and <strong>DELETION</strong>.  <br>
-By doing so, the Service provides a layer of file, data, and application security, thus informing you of Malware Attacks. 
+By doing so, the Service provides a layer of file, data, and application security, thus protecting you in case of a Malware Attack. 
 </p>
 <p align="center"><sub><sup><sub>This application was made quick and is in pre-alpha-beta-gama release, so dont @ me</sub></sup></sub></p>
 
