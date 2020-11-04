@@ -2,7 +2,7 @@
 <html lang="en">
 
 <body>
-<h1 align="center">:octocat: File Monitoring Service :octocat:</h1>
+<h1 align="center"> File Monitoring Service </h1>
  
 <p align="center">
 The Service scans, analyzes, and reports on unexpected changes to important files in your desired directory.<br> 
@@ -81,12 +81,6 @@ By doing so, the Service provides a layer of file, data, and application securit
 > * Add Security features
 > * Add better Exception Handling
 > * Refactor for better abstraction
-
-<p align="center">
-  <kbd>
-<img src="https://qph.fs.quoracdn.net/main-qimg-c8781a4bb1f17e330b50cb35f851da05.webp" width="300" height="350" style="border-radius:50%">
-    </kbd/
-</p>
 
 <p align="center"><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>holly shit this readme took way too long to make</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></p>
 </body>
