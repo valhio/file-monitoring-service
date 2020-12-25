@@ -9,7 +9,7 @@ The Service scans, analyzes, and reports on unexpected changes to important file
 It monitors changes such as <strong>CREATION</strong>, <strong>MODIFICATION</strong> and <strong>DELETION</strong>.  <br>
 By doing so, the Service provides a layer of file, data, and application security, thus protecting you in case of a Malware Attack. 
 </p>
-<p align="center"><sub><sup><sub>This application was made quick and is in pre-alpha-beta-gama release, so dont @ me</sub></sup></sub></p>
+
 
 
 # Set-up
@@ -82,7 +82,4 @@ By doing so, the Service provides a layer of file, data, and application securit
 > * Add better Exception Handling
 > * Refactor for better abstraction
 
-<p align="center"><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>holly shit this readme took way too long to make</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></p>
-</body>
-</html>
 
